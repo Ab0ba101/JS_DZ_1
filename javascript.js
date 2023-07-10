@@ -10,7 +10,7 @@ console.log(name);
 
 // 3
 
-let isStudent = "true";
+let isStudent = true;
 
 console.log(isStudent);
 
@@ -27,7 +27,7 @@ myNumber += 10;
 console.log(myNumber);
 
 // 6
-let myNull = "null";
+let myNull = null;
 
 console.log(myNull);
 
